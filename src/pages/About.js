@@ -5,9 +5,10 @@ const About = () => {
     <section className='section'>
       <h2>About</h2>
       <Link to='/' className='btn'>
-        Home
+        Back home
       </Link>
     </section>
   );
 };
+
 export default About;
